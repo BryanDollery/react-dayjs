@@ -1,5 +1,5 @@
 {
-  "name": "react-dayjs",
+  "name": "@engineerdollery/react-dayjs",
   "version": "0.2.1",
   "description": "React component for the dayjs date library.",
   "main": "dist/index.js",
