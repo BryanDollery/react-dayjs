@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devshawn/react-dayjs.git"
+    "url": "git+https://github.com/bryandollery/react-dayjs.git"
   },
   "keywords": [
     "dayjs",
@@ -30,9 +30,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/devshawn/react-dayjs/issues"
+    "url": "https://github.com/bryandollery/react-dayjs/issues"
   },
-  "homepage": "https://github.com/devshawn/react-dayjs#readme",
+  "homepage": "https://github.com/bryandollery/react-dayjs#readme",
   "jest": {
     "coverageDirectory": "./coverage/",
     "collectCoverage": true,
